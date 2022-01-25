@@ -2,7 +2,7 @@
 ## Given the painting, decide who drew it.
 
 ### Data
-The data is based on the dataset available on Kaggle at https://www.kaggle.com/ikarus777/best-artworks-of-all-time by Icaro (Ikarus777).
+The data is based on the dataset available on Kaggle at https://www.kaggle.com/ikarus777/best-artworks-of-all-time by Icaro (Ikarus777), under CC BY-NC-SA 4.0.
 
 I selected 9 artists out of the total 50 available, took 100 images (for each artist) as training dataset (i.e. 900 images in total) and 20~50 images per artist, depending on availability (total ~380) as test data.
 
